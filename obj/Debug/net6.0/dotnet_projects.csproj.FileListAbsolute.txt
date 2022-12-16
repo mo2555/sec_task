@@ -1,0 +1,15 @@
+D:\dotnet_projects\Task\bin\Debug\net6.0\dotnet_projects.exe
+D:\dotnet_projects\Task\bin\Debug\net6.0\dotnet_projects.deps.json
+D:\dotnet_projects\Task\bin\Debug\net6.0\dotnet_projects.runtimeconfig.json
+D:\dotnet_projects\Task\bin\Debug\net6.0\dotnet_projects.dll
+D:\dotnet_projects\Task\bin\Debug\net6.0\dotnet_projects.pdb
+D:\dotnet_projects\Task\obj\Debug\net6.0\dotnet_projects.csproj.AssemblyReference.cache
+D:\dotnet_projects\Task\obj\Debug\net6.0\dotnet_projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_projects\Task\obj\Debug\net6.0\dotnet_projects.AssemblyInfoInputs.cache
+D:\dotnet_projects\Task\obj\Debug\net6.0\dotnet_projects.AssemblyInfo.cs
+D:\dotnet_projects\Task\obj\Debug\net6.0\dotnet_projects.csproj.CoreCompileInputs.cache
+D:\dotnet_projects\Task\obj\Debug\net6.0\dotnet_projects.dll
+D:\dotnet_projects\Task\obj\Debug\net6.0\refint\dotnet_projects.dll
+D:\dotnet_projects\Task\obj\Debug\net6.0\dotnet_projects.pdb
+D:\dotnet_projects\Task\obj\Debug\net6.0\dotnet_projects.genruntimeconfig.cache
+D:\dotnet_projects\Task\obj\Debug\net6.0\ref\dotnet_projects.dll
